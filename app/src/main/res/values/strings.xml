@@ -60,6 +60,4 @@
 
     <string name="adb_disabled_title">Disable USB debugging</string>
 
-    <string name="date_format" translatable="false">dd.MM.yyyy</string>
-
 </resources>
