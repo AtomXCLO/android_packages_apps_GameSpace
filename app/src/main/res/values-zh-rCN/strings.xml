@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">使用 ANGLE 渲染器而不是本机的 GLES 驱动器。\n警告!! 可能会破坏游戏图形, 请谨慎使用!</string>
     <string name="cant_find_angle_pkg">ANGLE 渲染器在当前系统中不可用</string>
     <string name="per_app_unregister">从游戏列表中移除 %1$s</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">值: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">默认</string>
-    <string name="custom_seekbar_default_value_to_set">默认值: <xliff:g id="v">%s</xliff:g>\n长按设置</string>
-    <string name="custom_seekbar_default_value_is_set">恢复默认值</string>
     <string name="gamespace_menu_opacity_title">覆盖菜单不透明度级别</string>
     <string name="adb_disabled_title">禁用 USB 调试</string>
     <string name="battery_format">电量： <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Χρήση του ANGLE renderer αντί των εγγενών προγραμμάτων οδήγησης GLES.\nΠΡΟΕΙΔΟΠΟΙΗΣΗ!! Μπορεί να χαλάσει τα γραφικά του παιχνιδιού, χρησιμοποιήστε με προσοχή!</string>
     <string name="cant_find_angle_pkg">Το ANGLE δεν είναι διαθέσιμο στο σύστημά σας</string>
     <string name="per_app_unregister">Αφαίρεση του %1$s από τη βιβλιοθήκη</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Τιμή: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">από προεπιλογή</string>
-    <string name="custom_seekbar_default_value_to_set">Προεπιλεγμένη τιμή: <xliff:g id="v">%s</xliff:g>\nΠατήστε παρατεταμένα για να ορίσετε</string>
-    <string name="custom_seekbar_default_value_is_set">Η προεπιλεγμένη τιμή έχει οριστεί</string>
     <string name="gamespace_menu_opacity_title">Επίπεδο αδιαφάνειας μενού επικάλυψης</string>
     <string name="adb_disabled_title">Απενεργοποίηση εντοπισμού σφαλμάτων USB</string>
     <string name="battery_format">Μπαταρία: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

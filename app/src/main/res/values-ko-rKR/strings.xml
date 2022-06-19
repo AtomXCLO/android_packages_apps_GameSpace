@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">기본 GLES 드라이버 대신 ANGLE 렌더러를 사용합니다.\n경고!! 게임 그래픽이 깨질 수 있으니 주의하여 사용하세요!</string>
     <string name="cant_find_angle_pkg">ANGLE을 이 시스템에서 사용할 수 없습니다</string>
     <string name="per_app_unregister">%1$s 을(를) 라이브러리에서 제거</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">값: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">기본값으로 설정</string>
-    <string name="custom_seekbar_default_value_to_set">기본값: <xliff:g id="v">%s</xliff:g>\n길게 눌러서 설정</string>
-    <string name="custom_seekbar_default_value_is_set">기본값으로 설정됨</string>
     <string name="gamespace_menu_opacity_title">오버레이 메뉴 투명도 레벨</string>
     <string name="adb_disabled_title">USB 디버깅 비활성화</string>
     <string name="battery_format">배터리: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

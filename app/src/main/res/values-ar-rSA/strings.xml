@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">استخدام محرك ANGLE بدلاً من تعاريف GLES التقليدية. \n تحذير!! قد يعطل رسومات اللعبة، استخدم بحذر!</string>
     <string name="cant_find_angle_pkg">ANGLE غير متوفر على النظام الخاص بك</string>
     <string name="per_app_unregister">إزالة %1$s من المكتبة</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">القيمة: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">بشكل افتراضي</string>
-    <string name="custom_seekbar_default_value_to_set">القيمة الافتراضية: <xliff:g id="v">%s</xliff:g>\n أنقر مطولاً للتعيين</string>
-    <string name="custom_seekbar_default_value_is_set">تم تعيين القيمة الافتراضية</string>
     <string name="gamespace_menu_opacity_title">مستوى شفافية القائمة العائمة</string>
     <string name="adb_disabled_title">تعطيل تصحيح أخطاء USB</string>
     <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

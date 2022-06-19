@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Використовуючи візуалізатор ANGLE замість нативних драйверів GLES.\nУВАГА!! Може порушувати графіку гри, використовуйте з обережністю!</string>
     <string name="cant_find_angle_pkg">ANGLE недоступний у вашій системі</string>
     <string name="per_app_unregister">Видалити %1$s з бібліотеки</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Значення: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">за замовчуванням</string>
-    <string name="custom_seekbar_default_value_to_set">Значення за замовчуванням: <xliff:g id="v">%s</xliff:g>\nДовге натискання для встановлення</string>
-    <string name="custom_seekbar_default_value_is_set">Значення за замовчуванням встановлено</string>
     <string name="gamespace_menu_opacity_title">Рівень непрозорості меню ігрового режиму</string>
     <string name="adb_disabled_title">Вимкнути налагодження USB</string>
     <string name="battery_format">Акумулятор: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

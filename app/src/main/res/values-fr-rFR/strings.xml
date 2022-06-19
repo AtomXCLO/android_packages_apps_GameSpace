@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Utiliser le moteur de rendu ANGLE au lieu des pilotes GLES natifs.\nATTENTION!! Peut altérer le rendu graphique de jeu, utiliser avec précaution !</string>
     <string name="cant_find_angle_pkg">ANGLE n\'est pas disponible pour votre système</string>
     <string name="per_app_unregister">Retirer %1$s de la bibliothèque</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Valeur : <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">par défaut</string>
-    <string name="custom_seekbar_default_value_to_set">Valeur par défaut : <xliff:g id="v">%s</xliff:g>\nRester appuyer pour définir</string>
-    <string name="custom_seekbar_default_value_is_set">Valeur par défaut définie</string>
     <string name="gamespace_menu_opacity_title">Niveau d\'opacité du menu de superposition</string>
     <string name="adb_disabled_title">Désactiver le débogage USB</string>
     <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

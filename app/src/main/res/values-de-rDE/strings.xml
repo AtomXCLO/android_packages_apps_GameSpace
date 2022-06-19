@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Verwendung von ANGLE Renderer statt nativer GLES Treiber.\nWARNUNG!! Kann Spielgrafiken falsch darstellen!</string>
     <string name="cant_find_angle_pkg">ANGLE ist auf Ihrem System nicht verfügbar</string>
     <string name="per_app_unregister">%1$s aus der Bibliothek entfernen</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Wert: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Standardmäßig</string>
-    <string name="custom_seekbar_default_value_to_set">Standardwert: <xliff:g id="v">%s</xliff:g>\nZum Einstellen gedrückt halten</string>
-    <string name="custom_seekbar_default_value_is_set">Standardwert ist eingestellt</string>
     <string name="gamespace_menu_opacity_title">Transparenz des Overlay-Menüs</string>
     <string name="adb_disabled_title">USB-Debugging deaktivieren</string>
     <string name="battery_format">Akku: <xliff:g id="percentage" example="100"> %1$d%% </xliff:g></string>

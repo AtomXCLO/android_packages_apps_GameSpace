@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Používá ANGLE renderer místo nativních ovladačů GLA.\nVAROVÁNÍ!! Může se rozbít herní grafiku, používejte opatrně!</string>
     <string name="cant_find_angle_pkg">ANGLE není k dispozici ve vašem systému</string>
     <string name="per_app_unregister">Odebrat %1$s z knihovny</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Hodnota: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">výchozí hodnota</string>
-    <string name="custom_seekbar_default_value_to_set">Výchozí hodnota: <xliff:g id="v">%s</xliff:g>\nDlouze klepněte pro její nastavení</string>
-    <string name="custom_seekbar_default_value_is_set">Výchozí hodnota je nastavena</string>
     <string name="gamespace_menu_opacity_title">Úroveň průhlednosti překrytí menu</string>
     <string name="adb_disabled_title">Zakázat ladění USB</string>
     <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

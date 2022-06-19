@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">使用 ANGLE 渲染畫面而非原生的 GLES 驅動。\n警告！遊戲畫面可能出現破圖等現象，請謹慎使用。</string>
     <string name="cant_find_angle_pkg">您的系統不支援 ANGLE</string>
     <string name="per_app_unregister">從遊戲庫中移除 %1$s</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">數值： <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">預設</string>
-    <string name="custom_seekbar_default_value_to_set">預設值：<xliff:g id="v">%s</xliff:g>\n長按以設定</string>
-    <string name="custom_seekbar_default_value_is_set">已設定為預設值</string>
     <string name="gamespace_menu_opacity_title">不透明度</string>
     <string name="adb_disabled_title">停用 USB 偵錯</string>
     <string name="battery_format">電量： <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

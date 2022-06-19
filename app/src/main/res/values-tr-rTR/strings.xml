@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Yerel GLES sürücüleri yerine ANGLE oluşturucu kullan.\nUYARI!! Oyun grafiklerini bozabilir, dikkatli kullanın!</string>
     <string name="cant_find_angle_pkg">ANGLE sisteminizde mevcut değil</string>
     <string name="per_app_unregister">%1$s arşivden kaldır</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Değer: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">varsayılan</string>
-    <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nAyarlamak için uzun basın</string>
-    <string name="custom_seekbar_default_value_is_set">Varsayılan değer ayarlandı</string>
     <string name="gamespace_menu_opacity_title">Arayüz menüsü şeffaflığı</string>
     <string name="adb_disabled_title">USB hata ayıklamasını devre dışı bırak</string>
     <string name="battery_format">Pil: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Using ANGLE renderer instead of native GLES drivers.\nWARNING!! May breaks game graphics, use with caution!</string>
     <string name="cant_find_angle_pkg">ANGLE is not available on your system</string>
     <string name="per_app_unregister">Remove %1$s from library</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">値: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">既定</string>
-    <string name="custom_seekbar_default_value_to_set">既定値: <xliff:g id="v">%s</xliff:g>\n長押しで設定</string>
-    <string name="custom_seekbar_default_value_is_set">既定値が設定されています</string>
     <string name="gamespace_menu_opacity_title">Overlay menu opacity level</string>
     <string name="adb_disabled_title">Disable USB debugging</string>
     <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

@@ -50,12 +50,6 @@
     <string name="per_app_angle_summary">Utilizar renderizado ANGLE en lugar de controladores GLES nativos. \n¡ADVERTENCIA! Puede romper los gráficos de juegos, ¡Úsalo con cuidado!</string>
     <string name="cant_find_angle_pkg">ANGLE no está disponible en su sistema</string>
     <string name="per_app_unregister">Eliminar %1$s de la biblioteca</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">predeterminado</string>
-    <string name="custom_seekbar_default_value_to_set">Valor predeterminado: <xliff:g id="v">%s</xliff:g>\n
-Mantén presionado para establecer</string>
-    <string name="custom_seekbar_default_value_is_set">Valor predeterminado establecido</string>
     <string name="gamespace_menu_opacity_title">Nivel de opacidad del menú de superposición</string>
     <string name="adb_disabled_title">Desactivar depuración USB</string>
     <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>

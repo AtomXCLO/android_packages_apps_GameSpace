@@ -50,11 +50,6 @@
     <string name="per_app_angle_summary">Gebruik ANGLE renderer in plaats van oorspronkelijke GLES drivers.\nWAARSCHUWING!! Kan spel afbeeldingen breken, gebruik met voorzichtigheid!</string>
     <string name="cant_find_angle_pkg">ANGLE is niet beschikbaar op uw systeem</string>
     <string name="per_app_unregister">Verwijder %1$s uit bibliotheek</string>
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Waarde: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">standaard</string>
-    <string name="custom_seekbar_default_value_to_set">Standaard waarde: <xliff:g id="v">%s</xliff:g>\nLang indrukken om in te stellen</string>
-    <string name="custom_seekbar_default_value_is_set">Standaard waarde is ingesteld</string>
     <string name="gamespace_menu_opacity_title">Transparantieniveau van overlappingsmenu</string>
     <string name="adb_disabled_title">Usb-foutopsporing uitschakelen</string>
     <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
